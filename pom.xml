@@ -10,7 +10,7 @@
     <dependencies>
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
-            <artifactId>tomcat-embed-coredlp</artifactId>
+            <artifactId>tomcat-embed-core</artifactId>
             <version>${tomcat.version}</version>
         </dependency>
         <dependency>
